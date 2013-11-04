@@ -1,3 +1,9 @@
+### try this blog
+
+this is a great resource for getting started, I'll do my best to improve the steps below (installing xcode and command line tools seems a necessary but painful step though).
+
+http://www.fizerkhan.com/blog/posts/Every-Programmer-should-use-IRC.html
+
 ### Setting up irssi:
 
 1. Install XCode and Command Line Tools
