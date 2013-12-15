@@ -6,7 +6,7 @@ http://www.fizerkhan.com/blog/posts/Every-Programmer-should-use-IRC.html
 
 ### Setting up irssi:
 
-1. Install XCode and Command Line Tools
+1. Install XCode and Command Line Tools 
 2. Install HomeBrew with the following line
   * `ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"`
 3. `brew install irssi`
